@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Brukkenn
-- 👀 I’m interested in Programming in General.
-- 🌱 I’m currently learning Java Script.
-- 💞️ I’m looking to collaborate on pretty much any project that I'm able to help.
-- 📫 How to reach me https://www.linkedin.com/in/diogo-oliveira-962119295/
+- I’m Diogo Oliveira.
+- I’m interested in programming, as well as maths, engineering and computers.
+- I’m currently doing a math course to enter college to do Electrotechnical Engineering and Computers.
+- I got LinkedIn => https://www.linkedin.com/in/diogo-oliveira-962119295/
 
 <!---
 Brukkenn/Brukkenn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
